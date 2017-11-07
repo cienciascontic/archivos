@@ -1,0 +1,71 @@
+/**
+ * map.css
+ *
+ * Final Project for CS50x: Electricity Generation in the United States
+ * Sarah J. Pryputniewicz
+ *
+ * Global stylesheet.
+ */
+       
+html
+{
+    height: 100%;
+    text-align: left;
+}
+body
+{
+    font-family: sans-serif;
+    height: 100%;
+}
+#top
+{
+	width: 980px;
+	height: 60px;
+}
+#left
+{
+	position: absolute;
+	width: 680px;
+}
+#right
+{
+	position: relative;
+	margin-left: 685px;
+	width: 260px;
+}
+#usmap
+{
+	float: left;
+	width: 680px;
+	border: 1px solid green;
+}
+#middleleft
+{
+	position: absolute;
+}
+#right
+{
+	position: relative;
+
+}
+#generation
+{
+	position: relative;
+	clear: both; 
+	margin-top: 10px;
+	background: #CCFFFF;
+	color: red;
+	font-size: larger;
+}
+#legend
+{
+	width: 230px;
+}
+#10year
+{
+	clear: both; 
+	width: 275px; 
+	height: 800px; 
+	border: 1px solid black; 
+	background: #FFFFCC;
+}
