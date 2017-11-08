@@ -7,9 +7,9 @@
  * Highlights on US Map.
  */
 
-defaultgeneration = "Este área mostrará cuánta electricidad fue generada cada año. <img src='img/2001-2011Generation/US.png'>";
+defaultgeneration = "Este área mostrará cuánta electricidad fue generada cada año. <img src='../img/2001-2011Generation/US.png'>";
 
-default10year = "Este área mostrará la generación de fuentes de electricidad entre 2001 y 2010 (hasta 2011 para todo Estados Unidos). <img src='img/10year/US.png'>";
+default10year = "Este área mostrará la generación de fuentes de electricidad entre 2001 y 2010 (hasta 2011 para todo Estados Unidos). <img src='../img/10year/US.png'>";
 
 /**
  * Hover images over maps.
@@ -45,7 +45,7 @@ $(window).load(function()
 			FL: "<img src = 'https://has-resources.concord.org/resources/MappedUSA-950px/img/10year/FL.png'>",
 			GA: "<img src = 'https://has-resources.concord.org/resources/MappedUSA-950px/img/10year/GA.png'>",
 			HI: "<img src = 'https://has-resources.concord.org/resources/MappedUSA-950px/img/10year/HI.png'>",
-			ID: "<img src = 'https://has-resources.concord.org/resources/MappedUSA-950px/img/10year/ID.png'>",
+			ID: "<img src = 'https://cienciascontic.github.io/archivos/has/img/10year/ID.png'>",
 			IL: "<img src = 'https://has-resources.concord.org/resources/MappedUSA-950px/img/10year/IL.png'>",
 			IN: "<img src = 'https://has-resources.concord.org/resources/MappedUSA-950px/img/10year/IN.png'>",
 			IA: "<img src = 'https://has-resources.concord.org/resources/MappedUSA-950px/img/10year/IA.png'>",
@@ -102,7 +102,7 @@ $(window).load(function()
 			FL: "<img src = 'https://has-resources.concord.org/resources/MappedUSA-950px/img/2001-2011Generation/FL.png'>",
 			GA: "<img src = 'https://has-resources.concord.org/resources/MappedUSA-950px/img/2001-2011Generation/GA.png'>",
 			HI: "<img src = 'https://has-resources.concord.org/resources/MappedUSA-950px/img/2001-2011Generation/HI.png'>",
-			ID: "<img src = 'https://has-resources.concord.org/resources/MappedUSA-950px/img/2001-2011Generation/ID.png'>",
+			ID: "<img src = 'https://cienciascontic.github.io/archivos/has/img/2001-2011Generation/ID.png'>",
 			IL: "<img src = 'https://has-resources.concord.org/resources/MappedUSA-950px/img/2001-2011Generation/IL.png'>",
 			IN: "<img src = 'https://has-resources.concord.org/resources/MappedUSA-950px/img/2001-2011Generation/IN.png'>",
 			IA: "<img src = 'https://has-resources.concord.org/resources/MappedUSA-950px/img/2001-2011Generation/IA.png'>",
